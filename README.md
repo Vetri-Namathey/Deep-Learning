@@ -297,7 +297,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or collaboration opportunities:
 - **Email**: suryahariharan2006@gmail.com
-- **Project Repository**: [GitHub](https://github.com/your-username/NueroVisionAI)
+- **Profile**: [GitHub](https://github.com/Surya-Hariharan)
 
 ---
 
